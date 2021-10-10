@@ -1,0 +1,1 @@
+For this project I will be building a basic html website with different recipes. I am assuming the main goal of this project is to get a fundamental understand of elements such as anchor and image. I also hope to get more comfortable navigating different directories through the linux command line.
